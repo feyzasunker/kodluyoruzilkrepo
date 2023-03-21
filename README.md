@@ -1,6 +1,6 @@
 # kodluyoruz ilk repo 
 Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet [README](kodluyoruz.org) dosyası, bir adet de index.html barındırıyor.
-![repo](repo1.jpg)
+![repo]("C:\Users\USER\Desktop\repo1.jpg")
 # Installation
  git clone https://github.com/feyzasunker/kodluyoruzilkrepo
 # Usage
